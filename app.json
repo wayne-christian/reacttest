@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "react-native-navigate-between-screens",
-    "description": "Navigating Between Screens or Activities Using React Navigation Library",
-    "slug": "snack-255133c9-9b25-4d23-b5e9-4af78f4156b7",
+    "name": "wayne-cpd-nav-update",
+    "description": "No description",
+    "slug": "snack-f5a21466-bc43-4757-bbd8-c9be6c813c99",
     "privacy": "unlisted",
-    "sdkVersion": "32.0.0",
+    "sdkVersion": "36.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",

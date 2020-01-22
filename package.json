@@ -1,7 +1,7 @@
 {
-  "name": "react-native-navigate-between-screens",
+  "name": "wayne-cpd-nav-update",
   "version": "0.0.0",
-  "description": "Navigating Between Screens or Activities Using React Navigation Library",
+  "description": "No description",
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
@@ -9,11 +9,15 @@
     "babel-preset-expo": "^7.0.0"
   },
   "dependencies": {
-    "expo": "^32.0.0",
-    "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
-    "galio-framework": "0.5.1",
-    "react-navigation": "^2.6.2",
-    "react-native-paper": "2.1.3"
+    "expo": "^36.0.0",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz",
+    "react-navigation": "^4.0.10",
+    "react-navigation-tabs": "^2.5.6",
+    "react-native-gesture-handler": "^1.0.0",
+    "react-native-reanimated": "^1.0.0-alpha",
+    "react-native-screens": "^1.0.0-alpha",
+    "react-navigation-stack": "^1.10.3",
+    "react-navigation-drawer": "^2.3.3"
   }
 }
